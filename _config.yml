@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: PANIC
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.06504637212492526
+  saturation: 1
   brandStrength: 1
-  lightness: 0.759003025945276
+  lightness: 0.9175627
   brandColors:
     - '#0D080F'
     - '#FFFDFF'
     - '#FFAFA3'
     - '#FF2B04'
     - '#FF742B'
-  rhythmicContrast: 0.7530727332923561
+  rhythmicContrast: 0.1111111
 typography_spectrum: 0.1989247
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.9731183
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-name: PANIC
+layout_spectrum: 0.2401434
