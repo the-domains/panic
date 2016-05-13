@@ -1,28 +1,40 @@
-name: PANIC
-favicon: null
-layout_spectrum: 0.6191387348808348
-typography_spectrum: 0.2231
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.8964277128688991
-  lightness: 0.759003025945276
-  saturation: 0.06504637212492526
-  rhythmicContrast: 0.7530727332923561
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.06504637212492526
+  brandStrength: 1
+  lightness: 0.759003025945276
+  brandColors:
+    - '#0D080F'
+    - '#FFFDFF'
+    - '#FFAFA3'
+    - '#FF2B04'
+    - '#FF742B'
+  rhythmicContrast: 0.7530727332923561
+typography_spectrum: 0.1989247
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9731183
+favicon: null
+name: PANIC
