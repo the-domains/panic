@@ -1,3 +1,4 @@
+favicon: null
 name: PANIC
 opengraph:
   image: null
@@ -9,25 +10,26 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 1
+  saturation: 0.9551972
   brandStrength: 1
-  lightness: 0.9175627
+  lightness: 1
   brandColors:
-    - '#0D080F'
-    - '#FFFDFF'
-    - '#FFAFA3'
-    - '#FF2B04'
-    - '#FF742B'
-  rhythmicContrast: 0.1111111
-typography_spectrum: 0.1989247
+    - '#FF702A'
+    - '#FCEC34'
+    - '#0129BF'
+    - '#471F1D'
+    - '#948B2F'
+  rhythmicContrast: 0
+typography_spectrum: 0.1021505
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
@@ -36,5 +38,3 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 0.2401434
