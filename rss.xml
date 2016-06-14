@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PANIC]]></title>
         <description><![CDATA[PANIC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/panic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 19:10:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 14 Jun 2016 11:45:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/panic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>hwdsfsdhfsd</p>]]></description>
+            <link>https://thegrid.ai/panic/hwdsfsdhfsd/index.html</link>
+            <guid isPermaLink="false">187e3443-e879-4b9e-b938-e6921db47984</guid>
+            <pubDate>Tue, 14 Jun 2016 11:45:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a875340-f630-4601-aafb-e3690b3c95e7.png">]]></description>
-            <link>undefinedits-good-to-boogie/index.html</link>
+            <link>https://thegrid.ai/panic/its-good-to-boogie/index.html</link>
             <guid isPermaLink="false">669e4e8d-1d5c-4a09-85f3-39572d4254eb</guid>
             <pubDate>Tue, 19 Apr 2016 19:09:59 GMT</pubDate>
         </item>
